@@ -1,3 +1,6 @@
 # cy-workshop2
 
-## blah
+
+## Contributors
+alfred dunn
+master
