@@ -2,16 +2,5 @@
 
 ## Contributors
 alfred dunn
- testwebstorm
-
-
-
-
-
-
-
-
-
-
-Eli Odnopozov - inteliov 
-lukas grygar master
+lukas grygar
+Eli Odnopozov - inteliov
